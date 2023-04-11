@@ -10,6 +10,9 @@ This is a game build in dart with Flutter and Flame frameworks
 
 ## Demo
 
+https://user-images.githubusercontent.com/38252337/231266739-671fcd35-3e78-41df-9b16-c6cfac2ed033.mp4
+
+
 ## About
 
 This is a simple game; however, it was my first time using Flame engine. Moreover, I had a limit of 7 hours to make this game. Additionaly, the game supports all platforms.
